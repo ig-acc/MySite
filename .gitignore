@@ -1,0 +1,15 @@
+# JetBrains Rider
+.idea/
+*.sln.iml
+*.userprefs
+*.DotSettings
+*.DotSettings.user
+*.rider/
+_ReSharper.*/
+*.csproj.*
+*.suo
+*.cache
+*.bin
+*.swp
+obj/
+bin/
